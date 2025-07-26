@@ -3,4 +3,4 @@ A simple and interactive Java-based console application to manage and analyze st
 Technologies Used:
 Java (Core),
 Object-Oriented Programming (OOP),
-Console-based UI using Scanner,
+Console-based UI using Scanner
